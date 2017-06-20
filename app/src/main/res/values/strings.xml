@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Alumnos</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="cursos">
+
+        <item>Informática</item>
+        <item>Sistemas</item>
+        <item>Contabilidad</item>
+        <item>Diseño Gráfico</item>
+        <item>Cocina</item>
+
+    </string-array>
+
+    <string name="titulo">Seleccione Curso</string>
+</resources>
